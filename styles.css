@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top:10% ;
+}
+ .container{
+    margin-top: 3%;
+ }
+
+.currency{
+    margin: 20px;
+}
+
+.swap-rate{
+    display: flex;
+    justify-content: space-around;
+}
